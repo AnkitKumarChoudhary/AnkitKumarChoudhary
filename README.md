@@ -69,7 +69,7 @@
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/ankit-kumar-choudhary/">
+  <a href="https://www.linkedin.com/in/ankit-kumar-choudhary/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:akc243243@gmail.com">
