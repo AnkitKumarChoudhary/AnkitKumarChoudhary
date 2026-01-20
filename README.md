@@ -12,7 +12,7 @@
 - 🎓 Final-year **Computer Science Engineering** student  
 - 💻 Interested in **Full Stack Web Development & Problem Solving**  
 - 🏢 Incoming **Advanced Associate Software Engineer @ Accenture**  
-- 📚 Currently improving **DSA, MERN stack, and system fundamentals**  
+- 📚 Currently improving **DSA, MERN stack, and System Design**  
 
 ---
 
