@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit%20Kumar%20Choudhary&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Incoming%20AASE%20%40%20Accenture&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Ankit;MERN+Stack+Developer+%F0%9F%9A%80;Building+Full-Stack+Apps+with+TypeScript;DSA+Enthusiast+%7C+139%2B+LeetCode+Problems+%F0%9F%A7%A0;ML-Powered+Apps+with+Python+%F0%9F%A4%96;Incoming+AASE+%40+Accenture+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Ankit;MERN+Stack+Developer+%F0%9F%9A%80;Building+Full-Stack+Apps+%F0%9F%92%BB;480%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;110-Day+Max+Streak+%7C+15+Badges+%F0%9F%94%A5;Incoming+AASE+%40+Accenture+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/ankit-kumar-choudhary/" target="_blank">
@@ -29,23 +29,45 @@
 
 ```typescript
 const ankit: Developer = {
-  name:        "Ankit Kumar Choudhary",
-  role:        "Final-Year CSE Student → Incoming AASE @ Accenture",
-  location:    "Phagwara, Punjab, India 🇮🇳",
-  stack:       ["React", "Node.js", "Express", "MongoDB", "TypeScript", "Python"],
+  name:         "Ankit Kumar Choudhary",
+  role:         "Final-Year CSE Student → Incoming AASE @ Accenture",
+  location:     "Phagwara, Punjab, India 🇮🇳",
+  stack:        ["React", "Node.js", "Express", "MongoDB", "TypeScript", "Python"],
   currentFocus: ["System Design", "TypeScript", "Backend Optimization", "DSA"],
-  dsaStreak:   "139+ LeetCode problems solved in C++ 🔥",
-  motto:       "Write code that's clean, scalable, and maintainable ✨"
+  leetcode: {
+    solved:    480,
+    breakdown: { easy: 145, medium: 249, hard: 86 },
+    maxStreak: 110,
+    badges:    15,
+    highlight: "365 Days Badge 🏅"
+  },
+  motto: "Write code that's clean, scalable, and maintainable ✨"
 };
 ```
 
 - 🎓 Final-year **Computer Science Engineering** student
 - 💼 Incoming **Advanced Associate Software Engineer @ Accenture**
-- 🌐 Building full-stack apps with **MERN + TypeScript + Docker**
+- 🌐 Building full-stack apps with the **MERN stack + TypeScript + Docker**
 - 🤖 Experience integrating **Python ML microservices** into production apps
-- 🧠 Consistent **LeetCode grinder** — 139+ solutions committed in C++
+- 🧠 **480 LeetCode problems** solved — 110-day max streak, 15 badges, 365-day badge earned
 - 📊 Built real-world tools like a **budget tracker with PDF/CSV export**
 - 🎯 Focused on writing **clean, maintainable, and scalable code**
+
+---
+
+## 🏆 LeetCode Stats
+
+<div align="center">
+
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 🎯 Total | 🔥 Max Streak | 🏅 Badges |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 145 / 937 | 249 / 2041 | 86 / 923 | **480** | **110 days** | **15** |
+
+> **Most Recent Badge:** 365 Days Badge &nbsp;•&nbsp; **Active Days:** 319 &nbsp;•&nbsp; **Submissions (last year):** 443
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AnkitChoudhary45?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/AnkitChoudhary45/)
+
+</div>
 
 ---
 
@@ -93,8 +115,6 @@ const ankit: Developer = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnkitKumarChoudhary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitKumarChoudhary&theme=tokyonight&hide_border=true" />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumarChoudhary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
@@ -140,22 +160,6 @@ const ankit: Developer = {
 
 ---
 
-### 🧩 [LeetCode Daily Challenge](https://github.com/AnkitKumarChoudhary/Leetcode-Daily-Challenge)
-> 139+ LeetCode problems solved in C++, auto-synced via LeetPush — covering arrays, trees, DP, graphs, binary search, and more.
-
-- Topics covered: **Binary Trees, Dynamic Programming, Sliding Window, Graphs, Bit Manipulation, Matrix Problems**
-- Organized by month for clear progress tracking
-- Solved problems ranging from **daily challenges to hard interview questions**
-- Auto-pushed from LeetCode on successful submission using LeetPush
-
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/139%2B_Problems-brightgreen?style=flat-square" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -168,7 +172,7 @@ const ankit: Developer = {
 
 <div align="center">
 
-I'm always open to discussing **new projects**, **Accenture & tech career**, or just a solid conversation about **DSA and system design**!
+I'm always open to discussing **new projects**, **tech career**, or just a solid conversation about **DSA and system design**!
 
 <p>
   <a href="https://www.linkedin.com/in/ankit-kumar-choudhary/" target="_blank">
