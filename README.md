@@ -104,14 +104,13 @@ const ankit: Developer = {
 ## GitHub Stats
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkitKumarChoudhary&theme=tokyonight" alt="GitHub Profile Details" />
+  <br/>
+  <table border="0" cellspacing="0" cellpadding="4">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AnkitKumarChoudhary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumarChoudhary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-      </td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnkitKumarChoudhary&theme=tokyonight" alt="Stats" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkitKumarChoudhary&theme=tokyonight" alt="Top Languages" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnkitKumarChoudhary&theme=tokyonight" alt="Commits by Language" /></td>
     </tr>
   </table>
 </div>
