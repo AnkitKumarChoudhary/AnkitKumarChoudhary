@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit%20Kumar%20Choudhary&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Incoming%20AASE%20%40%20Accenture&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Ankit;MERN+Stack+Developer+%F0%9F%9A%80;Building+Full-Stack+Apps+%F0%9F%92%BB;480%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;110-Day+Max+Streak+%7C+15+Badges+%F0%9F%94%A5;Incoming+AASE+%40+Accenture+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Ankit;MERN+Stack+Developer;Building+Full-Stack+Apps;480%2B+LeetCode+Problems+Solved;Incoming+AASE+%40+Accenture)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/ankit-kumar-choudhary/" target="_blank">
@@ -11,7 +11,7 @@
   <a href="https://leetcode.com/u/AnkitChoudhary45/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:akc243243@gmail.com">
+  <a href="mailto:hello.ankit.choudhary@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AnkitKumarChoudhary" target="_blank">
@@ -25,23 +25,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const ankit: Developer = {
   name:         "Ankit Kumar Choudhary",
   role:         "Final-Year CSE Student → Incoming AASE @ Accenture",
-  location:     "Phagwara, Punjab, India 🇮🇳",
+  location:     "Phagwara, Punjab, India",
   stack:        ["React", "Node.js", "Express", "MongoDB", "TypeScript", "Python"],
   currentFocus: ["System Design", "TypeScript", "Backend Optimization", "DSA"],
-  leetcode: {
-    solved:    480,
-    breakdown: { easy: 145, medium: 249, hard: 86 },
-    maxStreak: 110,
-    badges:    15,
-    highlight: "365 Days Badge 🏅"
-  },
-  motto: "Write code that's clean, scalable, and maintainable ✨"
+  motto:        "Write code that's clean, scalable, and maintainable."
 };
 ```
 
@@ -55,25 +48,10 @@ const ankit: Developer = {
 
 ---
 
-## 🏆 LeetCode Stats
+## Tech Stack
 
-<div align="center">
+**Languages**
 
-| 🟢 Easy | 🟡 Medium | 🔴 Hard | 🎯 Total | 🔥 Max Streak | 🏅 Badges |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 145 / 937 | 249 / 2041 | 86 / 923 | **480** | **110 days** | **15** |
-
-> **Most Recent Badge:** 365 Days Badge &nbsp;•&nbsp; **Active Days:** 319 &nbsp;•&nbsp; **Submissions (last year):** 443
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AnkitChoudhary45?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/AnkitChoudhary45/)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 💬 Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -83,7 +61,8 @@ const ankit: Developer = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🎨 Frontend
+**Frontend**
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -91,7 +70,8 @@ const ankit: Developer = {
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Database
+**Backend & Database**
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
@@ -99,7 +79,8 @@ const ankit: Developer = {
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🧰 Tools & DevOps
+**Tools & DevOps**
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -110,27 +91,42 @@ const ankit: Developer = {
 
 ---
 
-## 📊 GitHub Stats
+## LeetCode Stats
+
+> Stats below are **live** — automatically updated from LeetCode.
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnkitKumarChoudhary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumarChoudhary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  <img src="https://leetcard.jacoblin.cool/AnkitChoudhary45?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats" />
 </div>
 
 ---
 
-## 🏗️ Featured Projects
+## GitHub Stats
 
-### 🧭 [PathFinder](https://github.com/AnkitKumarChoudhary/PathFinder)
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AnkitKumarChoudhary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumarChoudhary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Featured Projects
+
+### [PathFinder](https://github.com/AnkitKumarChoudhary/PathFinder)
 > An intelligent full-stack platform with a dedicated Python ML microservice, all orchestrated via Docker Compose.
 
 - **Frontend:** React + TypeScript — responsive, component-driven UI
 - **Backend:** Node.js + Express + TypeScript — RESTful API layer
 - **ML Service:** Python microservice for intelligent recommendations
 - **Infrastructure:** Docker Compose for seamless multi-service deployment
-- **Database:** Seeded with reset/seed scripts for quick dev setup
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -142,14 +138,13 @@ const ankit: Developer = {
 
 ---
 
-### 💰 [Expense Tracker App](https://github.com/AnkitKumarChoudhary/expenseTrackerApp)
+### [Expense Tracker App](https://github.com/AnkitKumarChoudhary/expenseTrackerApp)
 > A full-featured budget management app with real-time interactive charts and export capabilities.
 
 - Set and manage **budget**, track **expenses**, and log **income** by category
 - Visualize finances via **doughnut, bar, and line charts** powered by Chart.js
-- **Export** reports to **PDF** (html2canvas + jsPDF) and **CSV**
-- Fully **responsive design** with TailwindCSS
-- **Dockerized** with CI/CD via GitHub Actions workflows
+- Export reports to **PDF** (html2canvas + jsPDF) and **CSV**
+- Fully **responsive design** with TailwindCSS, Dockerized with GitHub Actions CI/CD
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -160,19 +155,19 @@ const ankit: Developer = {
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitKumarChoudhary&theme=tokyo-night&hide_border=true&area=true&custom_title=Ankit's%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitKumarChoudhary&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Connect
 
 <div align="center">
 
-I'm always open to discussing **new projects**, **tech career**, or just a solid conversation about **DSA and system design**!
+Open to discussing new projects, collaborations, or just a good conversation about DSA and system design.
 
 <p>
   <a href="https://www.linkedin.com/in/ankit-kumar-choudhary/" target="_blank">
@@ -181,12 +176,12 @@ I'm always open to discussing **new projects**, **tech career**, or just a solid
   <a href="https://leetcode.com/u/AnkitChoudhary45/" target="_blank">
     <img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:akc243243@gmail.com">
+  <a href="mailto:hello.ankit.choudhary@gmail.com">
     <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-⭐ **If you find my work interesting, feel free to star a repo and connect!**
+If you find my work interesting, feel free to star a repo and connect.
 
 </div>
 
